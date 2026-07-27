@@ -1,8 +1,27 @@
 aid: hometogo
 name: HomeToGo
-description: 'HomeToGo is a company surfaced as a portfolio company of insight-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'HomeToGo is the world''s largest marketplace and search engine for vacation
+  rentals, aggregating roughly 20 million offers from thousands of providers worldwide
+  across cabins, condos, houses, and apartments. Its B2B segment, HomeToGo_PRO, powers
+  the supply side of travel with SaaS and tech-enabled services for individual hosts,
+  property managers, and agencies. Through its Doppelgänger program HomeToGo offers
+  partners multiple integration surfaces — API, White Label, Travel Agency Hub, ad
+  placement, and pop-under — to embed its vacation-rental inventory. HomeToGo is a
+  publicly listed company (Frankfurt Stock Exchange) and a portfolio company of Insight
+  Partners. It does not publish a public, self-serve API specification; API access
+  is arranged through its partner and supply programs.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn2.hometogo.net/assets/media/jpg/35674d7431489e6ae0e7361a9f0abcdc.jpg
 url: https://raw.githubusercontent.com/api-evangelist/hometogo/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Consumer
+- Travel
+- Vacation Rentals
+- Marketplace
+- Metasearch
+- Hospitality
+- Partner API
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,36 @@ maintainers:
 common:
 - type: Website
   url: https://www.hometogo.com/
+- type: DeveloperPortal
+  url: https://www.hometogo.com/partner/
+- type: Partner
+  url: https://www.hometogo.com/doppelgaenger/
+- type: HelpCenter
+  url: https://help-center.hometogo.com/
+- type: Support
+  url: https://help-center.hometogo.com/
+- type: Blog
+  url: https://engineering.hometogo.com/
+- type: GitHubOrganization
+  url: https://github.com/hometogo
+- type: TermsOfService
+  url: https://www.hometogo.com/terms-of-service/
+- type: PrivacyPolicy
+  url: https://www.hometogo.com/privacy-policy/
+- type: Legal
+  url: https://www.hometogo.com/legal/
+- type: InvestorRelations
+  url: https://ir.hometogo.de/
+- type: About
+  url: https://www.hometogo.com/about/
+- type: Press
+  url: https://www.hometogo.com/news/
+- type: LLMsTxt
+  url: llms/hometogo-llms.txt
+- type: DomainSecurity
+  url: security/hometogo-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

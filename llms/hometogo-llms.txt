@@ -1,0 +1,25 @@
+# HomeToGo
+
+> HomeToGo is the world's largest marketplace and search engine for vacation rentals, aggregating roughly 20 million offers from thousands of providers worldwide. Its B2B arm, HomeToGo_PRO, powers the supply side of travel with SaaS and tech-enabled services for hosts and property managers, and its Doppelgänger program lets partners integrate HomeToGo inventory via API, White Label, Travel Agency Hub, ad placement, and pop-under surfaces. HomeToGo does not publish a public, self-serve API specification; API access is granted through its partner/supply programs.
+
+## Partner & integration
+- [Partner integrations](https://www.hometogo.com/partner/): API, White Label, and widget options to embed HomeToGo vacation-rental inventory.
+- [Doppelgänger affiliate/partner program](https://www.hometogo.com/doppelgaenger/): five integration types — White Label, API, Ad Placement, Pop-under, Travel Agency Hub.
+- Partner contact: partnersupport@hometogo.com
+
+## Docs & help
+- [Help Center](https://help-center.hometogo.com/): guest and partner support articles.
+- [Engineering & Data blog](https://engineering.hometogo.com/): HomeToGo engineering, data, and API topics.
+
+## Code
+- [HomeToGo on GitHub](https://github.com/hometogo): organization repositories (data code snippets, tooling). No first-party client SDK is currently published.
+
+## Company
+- [About HomeToGo](https://www.hometogo.com/about/)
+- [Investor Relations](https://ir.hometogo.de/)
+- [Press / News](https://www.hometogo.com/news/)
+
+## Legal
+- [Terms of Service](https://www.hometogo.com/terms-of-service/)
+- [Privacy Policy](https://www.hometogo.com/privacy-policy/)
+- [Legal / Imprint](https://www.hometogo.com/legal/)
