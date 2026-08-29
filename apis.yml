@@ -10,6 +10,17 @@ description: 'HomeToGo is the world''s largest marketplace and search engine for
   publicly listed company (Frankfurt Stock Exchange) and a portfolio company of Insight
   Partners. It does not publish a public, self-serve API specification; API access
   is arranged through its partner and supply programs.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
